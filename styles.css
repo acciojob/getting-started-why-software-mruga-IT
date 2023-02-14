@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+<h1>My name</h1>
+	<from>
+			<div>
+	<label for= "name">name</label>
+	 <input  id="name">
+	</div>
+	</from> 
